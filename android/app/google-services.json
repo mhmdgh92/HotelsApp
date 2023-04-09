@@ -1,0 +1,93 @@
+{
+  "project_info": {
+    "project_number": "325408319907",
+    "firebase_url": "https://ofertarn.firebaseio.com",
+    "project_id": "ofertarn",
+    "storage_bucket": "ofertarn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325408319907:android:84933a608c95b778",
+        "android_client_info": {
+          "package_name": "com.mhmdgh.hotels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325408319907-ut81n6dt1eok7n62gkqsnddd4055l952.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbi8Zeobxdc8_YUHgZZCgqN-mbPGMyNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325408319907-ut81n6dt1eok7n62gkqsnddd4055l952.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325408319907:android:b106f372184e9ab5",
+        "android_client_info": {
+          "package_name": "com.ofertarn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325408319907-of3qdtbpm2frlq9er5paqdjapobh1s7s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ofertarn",
+            "certificate_hash": "5966bae260cb7a9d9ad4bd424e4aa7492ea0940d"
+          }
+        },
+        {
+          "client_id": "325408319907-lgahj9tmosqtj62upubauh9nsdle4iio.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ofertarn",
+            "certificate_hash": "93132635bf11136d0fc27d8144cd2d789fe6ea2e"
+          }
+        },
+        {
+          "client_id": "325408319907-dvatpats8pb4kdoulsi147e3votqd0iv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ofertarn",
+            "certificate_hash": "7faa4ab76f1e92f9167eb3c15da88a42504cb80b"
+          }
+        },
+        {
+          "client_id": "325408319907-ut81n6dt1eok7n62gkqsnddd4055l952.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxbi8Zeobxdc8_YUHgZZCgqN-mbPGMyNA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325408319907-ut81n6dt1eok7n62gkqsnddd4055l952.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
